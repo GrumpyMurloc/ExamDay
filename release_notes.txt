@@ -1,0 +1,5 @@
+La database doit se nommer 'sysexam',
+sinon modifier le fichier config dans:
+	./modele/configs
+
+Importer le fichier sysexam.sql pour créer la db.
